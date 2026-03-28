@@ -1,0 +1,38 @@
+[
+  {
+    "id": "INC-001",
+    "title": "Docking clearance misalignment",
+    "date": "2026-03-01",
+    "aircraftType": "A330",
+    "location": "Hangar A",
+    "severity": "High",
+    "cause": "Human Error",
+    "status": "Open",
+    "description": "Aircraft docking platform alignment was incorrectly positioned, creating a near-contact event.",
+    "procedureId": "PROC-101"
+  },
+  {
+    "id": "INC-002",
+    "title": "Tooling check incomplete",
+    "date": "2026-03-03",
+    "aircraftType": "B777",
+    "location": "Hangar C",
+    "severity": "Medium",
+    "cause": "Process Gap",
+    "status": "Closed",
+    "description": "Pre-task tooling verification was not fully completed before maintenance activity.",
+    "procedureId": "PROC-102"
+  },
+  {
+    "id": "INC-003",
+    "title": "Surface panel scratch during maintenance",
+    "date": "2026-03-05",
+    "aircraftType": "A350",
+    "location": "Bay 2",
+    "severity": "Low",
+    "cause": "Handling Error",
+    "status": "Under Review",
+    "description": "Minor surface scratch identified after maintenance access equipment was repositioned.",
+    "procedureId": "PROC-103"
+  }
+]
